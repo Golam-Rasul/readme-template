@@ -113,7 +113,7 @@ https://www.youtube.com/
 
 <!--[profile](./Images/formal%20photo.jpg)-->  
 
-<img src="./Images/formal%20photo.JPG" width=200 title="formal photo">
+<img src="./Images/formal%20photo.JPG" width=200 title="formal photo"/>
 😊
 <br/>
 
